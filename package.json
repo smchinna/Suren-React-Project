@@ -20,7 +20,7 @@
     "history": "^4.10.1",
     "moment-timezone": "^0.5.27",
     "namor": "^1.1.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "rc-slider": "^8.6.13",
     "react": "^16.8.6",
     "react-apexcharts": "^1.3.3",
